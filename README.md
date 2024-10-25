@@ -8,8 +8,8 @@
 
 
 ### Team Members
-- Team Lead: # [Arjun Shiju](https://github.com/Godly-arj/) - Albertian Institute Of Science And Technology 
-- Member 2: # [Elna Susan](https://github.com/Elnasusan26/) - Albertian Institute Of Science And Technology
+- Team Lead: [Arjun Shiju](https://github.com/Godly-arj/) - Albertian Institute Of Science And Technology 
+- Member 2: [Elna Susan](https://github.com/Elnasusan26/) - Albertian Institute Of Science And Technology
 - Member 3: [Randell Ronald](https://github.com/RandellRonald/) - Albertian Institute Of Science And Technology
 
 ### Project Description
