@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# LOVE LETTER
+# ANNONYMUS LOVE LETTER
 
 
 ## Basic Details
@@ -13,13 +13,15 @@
 - Member 3: [Randell Ronald](https://github.com/RandellRonald/) - Albertian Institute Of Science And Technology
 
 ### Project Description
-[2-3 lines about what your project does]
+Starving for love ?
+Hungry for it ??
+Are u afraid of expressing it ???
+Here's a website in which you can send annonymus love letter to others. 
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
 
 ## Technical Details
 ### Technologies/Components Used
