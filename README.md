@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# ANNONYMUS LOVE LETTER
+# ANONYMUS LOVE LETTER
 
 
 ## Basic Details
@@ -26,19 +26,7 @@ Here's a website in which you can send annonymus love letter to others.
 For Software:
 - html
 
-### Implementation
-For Software:
-
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
+# Screenshots 
 ![](image1.png)
 
 ![](image2.png)
