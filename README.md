@@ -27,10 +27,13 @@ For Software:
 - html
 
 # Screenshots 
-![](image1.png)
+![](https://github.com/Elnasusan26/Bomb_Squad/blob/main/screeshot/image1.png)
 
-![](image2.png)
+![](https://github.com/Elnasusan26/Bomb_Squad/blob/main/screeshot/image2.png)
 
+
+# Video
+1[VIDEO LINK](https://github.com/Elnasusan26/Bomb_Squad/blob/main/screeshot/index.html%20-%20Bomb_Squad%20%5BCodespaces_%20bug-free%20palm-tree%5D%20-%20Visual%20Studio%20Code%20-%20Google%20Chrome%202024-11-17%2012-21-31.mp4)
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
