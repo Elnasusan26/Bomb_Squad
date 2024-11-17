@@ -33,7 +33,7 @@ For Software:
 
 
 # Video
-![VIDEO LINK](https://drive.google.com/file/d/1tDZSxPmOdYtylRwtcCXH4ZREq6MqOKyL/view?usp=sharing)
+[VIDEO LINK](https://drive.google.com/file/d/1tDZSxPmOdYtylRwtcCXH4ZREq6MqOKyL/view?usp=sharing)
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
